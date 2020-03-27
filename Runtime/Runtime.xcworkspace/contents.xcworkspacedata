@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:demo/demo.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:dyld-732.8/dyld.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:MachOView-master/machoview.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:objc4-779.1/objc.xcodeproj">
+   </FileRef>
+</Workspace>
